@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Text
+  - UI
+  - TileGroup
+  - Tile
+  - SelectUI
+  - Item
+  - LifeCount
+  - Ghost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3675990379
+    locked: 0
+  - name: Ghost
+    uniqueID: 3462212345
+    locked: 0
+  - name: Map
+    uniqueID: 3505541423
+    locked: 0
+  - name: Light
+    uniqueID: 819724811
+    locked: 0
+  - name: Item
+    uniqueID: 448162959
+    locked: 0
+  - name: UI
+    uniqueID: 1094027133
+    locked: 0
+  - name: Text
+    uniqueID: 2955855153
+    locked: 0
